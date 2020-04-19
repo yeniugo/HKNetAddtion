@@ -1,0 +1,6 @@
+framework module HKNetAddtion {
+  umbrella header "HKNetAddtion-umbrella.h"
+
+  export *
+  module * { export * }
+}

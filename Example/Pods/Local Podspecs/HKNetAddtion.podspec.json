@@ -1,0 +1,22 @@
+{
+  "name": "HKNetAddtion",
+  "version": "0.1.0",
+  "summary": "A short description of HKNetAddtion.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yeniugo/HKNetAddtion",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yeniugo": "hukaihope@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yeniugo/HKNetAddtion.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HKNetAddtion/Classes/**/*"
+}
